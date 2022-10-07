@@ -46,4 +46,4 @@ Results
 - Goal that ranges between 45000 and 49999 will have 100% Failed Outcomes
 - Those Goal set between 100 to 4999 will have 75% Sucessful Outcomes
 
-There is a summary of the limitations of the dataset, and there is a recommendation for additional tables or graphs
+For the Outcomes Based on Goal there are many recommended charts but I really like i Staked Column, it is easier to analize and provide more visual explation of the outcomes
