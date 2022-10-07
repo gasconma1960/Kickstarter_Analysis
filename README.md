@@ -1,7 +1,8 @@
 # Kickstarter_Analysis
 # **Deliverable 1: Outcomes Based on Launch Date Chart**
-![image](https://user-images.githubusercontent.com/112348240/194446619-b5eead9c-77ca-4af3-b02d-87912cc285b6.png)
+
 *Feeding Table to the chart above*
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/112348240/194649038-d6c32b75-b8bf-480d-ac47-a7e587a6a26d.png)
 
 ![image](https://user-images.githubusercontent.com/112348240/194446690-6121510b-3563-485c-ac7f-474ab684c30a.png)
 
