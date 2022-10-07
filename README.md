@@ -18,7 +18,7 @@
 # Overview of Project 
 **The purpose of this Project**
 
-   Using all chart and tools that Excel has make easier to understand the complexity of this data, looking on the Pivotable we were able to create the charts that will help to undesrtand how this Project will be succesfull based on the Launch dates as well as the Goal set for
+   Using all charts and tools that Excel has make easier to understand the complexity of this data, looking on the Pivotable we were able to create the charts that will help to understand how this Project will be succesfull based on the Launch dates as well as the Goal set for
   
   
 # Analysis and Challenges
@@ -35,8 +35,15 @@ Describe any possible challenges or difficulties that could be encountered.
 
 Results
 
-Two conclusions are made about the Theater Outcomes by Launch Date
+# Conclusions for Theater Outcomes by Launch Date
 
-One conclusion is made about the Outcomes based on Goals
+-  Based on the Launch Date the changes between May and June were the Highest Succesful Launches
+
+-  October is the Month for the Launch Date that shows there more launches that Fail
+
+# Conclusions for the Outcomes based on Goals
+
+- Goal that ranges between 45000 and 49999 will have 100% Failed Outcomes
+- Those Goal set between 100 to 4999 will have 75% Sucessful Outcomes
 
 There is a summary of the limitations of the dataset, and there is a recommendation for additional tables or graphs
