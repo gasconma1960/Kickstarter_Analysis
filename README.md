@@ -39,7 +39,10 @@
 ![image](https://user-images.githubusercontent.com/112348240/194723939-5032d196-f262-468d-8e60-770f8ba75f80.png)   
 
 ## Results
-
+# What are some limitations of this dataset? 
+  - > The data could be incomplete. Missing values, even the lack of a section or a substantial part of the data, could limit its usability'
+  - > Insufficient sample size for statistical measurements'
+  - > Lack of previous research studies on the topic'
 # Conclusions for Theater Outcomes by Launch Date
 
 -  Based on the Launch Date the changes for this Project to be Successful is to be Launch between May and June are the Highest
@@ -51,3 +54,5 @@
 -  Those Goal set between 100 to 4999 will have 75% Successful Outcomes
 
 For the Outcomes Based on Goal there are many charts, but I really like using Staked Column, it is easier to analyze and provide 
+
+
