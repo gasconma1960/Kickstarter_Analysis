@@ -34,9 +34,8 @@
 ![image](https://user-images.githubusercontent.com/112348240/194449363-5028f084-69a7-48ea-aa0e-b54f89e32172.png)
 
 ### Challenges and Difficulties Encountered
-   Well, setting of the Table based on the Goal range was the most difficult part, using the countifs formulas, then a realize how to overcome trying to use a formula that will facilite the work for me
-
-Describe any possible challenges or difficulties that could be encountered.
+   Well, when I have to use the “Goal” column and create the following dollar-amount ranges so projects can be grouped based on their goal amount was the most difficult part, as well using the count(ifs) formulas, then a realize how to overcome trying to use a formula that will facilite the work for me
+![image](https://user-images.githubusercontent.com/112348240/194723939-5032d196-f262-468d-8e60-770f8ba75f80.png)   
 
 ## Results
 
