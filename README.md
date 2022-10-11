@@ -10,17 +10,17 @@
 
 *Feeding Table to the chart above*
 
-![image](https://user-images.githubusercontent.com/112348240/194446690-6121510b-3563-485c-ac7f-474ab684c30a.png)
+![image](https://user-images.githubusercontent.com/112348240/194992059-15da725f-656e-4c0f-a57b-a70dabc5a4d9.png)
 
 ## Analysis and Challenges
    
 
 # **Deliverable 2: Outcomes Based on Goals Chart**
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/112348240/194447358-ce504e81-7bba-4bf8-b75a-070a25c27ff5.png)
+![image](https://user-images.githubusercontent.com/112348240/194991672-d9f8d4d6-02ce-4c6a-a757-bbe80f6caf1a.png)
 
 *Feeding Table for Outcomes Base on Goals Chart*
+![image](https://user-images.githubusercontent.com/112348240/194991744-b6cbe50f-2bbd-41c8-b83d-2fb6d1c98ab6.png)
 
-![image](https://user-images.githubusercontent.com/112348240/194448474-6514035c-1a1c-4420-8bd4-7b5509cad350.png)
 
 # Overview of Project 
 **The purpose of this Project**
