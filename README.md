@@ -10,7 +10,7 @@
 
 *Feeding Table to the chart above*
 
-![image](https://user-images.githubusercontent.com/112348240/194992059-15da725f-656e-4c0f-a57b-a70dabc5a4d9.png)
+![image](https://user-images.githubusercontent.com/112348240/194992610-b5f32e5a-0363-4bba-8550-2491999a3d8a.png)
 
 ## Analysis and Challenges
    
